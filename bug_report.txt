@@ -1,9 +1,0 @@
-summary: empty cart after adding item,
-stets_to_reproduce:
-       spet_1: open www.test.com,
-      step_2: choose a section,
-      step_3: click on item,
-      step_4: "add item to cart,
-      step_5: open cart
-actual_result: empty cart
-expected_resalt: item has been added to the cart
