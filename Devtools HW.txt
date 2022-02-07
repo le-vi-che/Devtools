@@ -1,3 +1,4 @@
+ ссылка на видео https://drive.google.com/file/d/1jkmQ72LmYduBXQPQwDvJ7zoo5MzS2K5h/view?usp=sharing
  Открыть Chrome DevTools
  Зайти в панель Elements.
  Найти инспектором кнопку Submit и выровнять слово Submit по центру
